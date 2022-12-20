@@ -1,5 +1,13 @@
 # :oncoming_automobile:  Exploratory Data Analysis on USA Car Accidents  
 
+## Exploratory Data Analysis
+
+- Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+
+- It is a good practice to understand the data first and try to gather as many insights from it. EDA is all about making sense of data in hand, before getting them dirty with it.
+
+## About the Project
+
 **Are Car Accidents More Likely to Occur during the Winters?**
 
 In this Project, I have performed Exploratory Data Analysis on a dataset regarding Car Accidents in USA. The dataset contains records of 6 years from Feb 2016 to Dec 2021 and contains 2.8 million records in total.
